@@ -1,0 +1,20 @@
+A 4-way traffic light controller is a system used to regulate the flow of vehicles at an intersection with four approaches or directions. The controller manages the traffic signal timings to ensure smooth and safe movement of vehicles.
+
+The basic theory behind a 4-way traffic light controller involves using a predefined sequence of signal phases to allocate green, yellow, and red lights to each approach. Here's a step-by-step breakdown of the theory:
+
+Phases: The controller operates in cycles or phases, where each phase corresponds to a specific configuration of signal lights. For a 4-way intersection, there are typically four phases, one for each approach.
+
+Timing: Each phase has a predetermined time duration, which determines how long the signal lights for a particular approach remain green, yellow, or red. The timings are usually set based on traffic patterns, road conditions, and pedestrian requirements.
+
+Sequence: The controller follows a sequence to switch between phases. The most common sequence for a 4-way intersection is as follows:
+
+Phase 1: Green light for Approach 1, red lights for other approaches.
+Phase 2: Yellow light for Approach 1, indicating the transition to red.
+Phase 3: Red lights for Approach 1 and green light for Approach 2.
+Phase 4: Yellow light for Approach 2, indicating the transition to red.
+Phase 5: Red lights for Approach 1 and 2, and green light for Approach 3.
+Phase 6: Yellow light for Approach 3, indicating the transition to red.
+Phase 7: Red lights for Approach 1, 2, and 3, and green light for Approach 4.
+Phase 8: Yellow light for Approach 4, indicating the transition to red.
+Phase 9: Red lights for all approaches, completing the cycle.
+This sequence ensures that each approach gets a fair share of green light time, allowing vehicles from different directions to take turns.
